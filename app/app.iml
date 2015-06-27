@@ -99,6 +99,6 @@
     <orderEntry type="library" exported="" name="appcompat-v7-22.2.0" level="project" />
     <orderEntry type="library" exported="" name="retrofit-1.9.0" level="project" />
     <orderEntry type="library" exported="" name="butterknife-6.1.0" level="project" />
-    <orderEntry type="module" module-name="spotifywebapiandroidmaster" exported="" />
+    <orderEntry type="module" module-name="spotify-web-api-android-master" exported="" />
   </component>
 </module>
